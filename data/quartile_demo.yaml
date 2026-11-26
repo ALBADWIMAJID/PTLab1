@@ -1,0 +1,12 @@
+- A:
+    math: 40
+    physics: 60
+- B:
+    math: 50
+    physics: 70
+- C:
+    math: 60
+    physics: 80
+- D:
+    math: 70
+    physics: 90
